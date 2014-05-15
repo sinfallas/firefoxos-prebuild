@@ -1,0 +1,29 @@
+commit 9af47ea94fbc755b9b3598b1fed1ac26cd68ffe9 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue May 6 21:22:59 2014 -0430
+
+    * Cambios relacionados con el copyright
+
+commit 7933b4773faf57671abefc0cc859cf0d005360ce
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sat Apr 26 15:34:54 2014 -0430
+
+    * misc
+
+commit ee42fd8a94c5146f0a7f21a3e4b9b8454587c3aa
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Sat Apr 26 15:28:45 2014 -0430
+
+    * se agrega informacion de copyright
+
+commit 8469a76da527c7127a81bcaa465be8a7f07d1f91 (tag: v1.0)
+Author: sinfallas <sinfallas@yahoo.com>
+Date:   Sun Mar 30 23:12:04 2014 -0430
+
+    * first commit
+
+commit c91a7163a409aaeb09b66dbda69f58b13dc42bae
+Author: Sinfallas <sinfallas@users.noreply.github.com>
+Date:   Sun Mar 30 20:40:35 2014 -0700
+
+    Initial commit
