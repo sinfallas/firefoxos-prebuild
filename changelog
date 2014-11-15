@@ -1,4 +1,22 @@
-commit 9af47ea94fbc755b9b3598b1fed1ac26cd68ffe9 (HEAD, origin/master, origin/HEAD, master)
+commit f74d29b46352c4ec96f813d2e6943f4cb8221325 (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Fri Nov 14 19:39:34 2014 -0430
+
+    * se agrega travis
+
+commit f0f14b9286563100002743fc6f527b8f731e7a27 (tag: v1.0.2, tag: v1.0.1)
+Author: Jesus Palencia <sinfallas@users.noreply.github.com>
+Date:   Tue Jun 3 11:44:01 2014 -0430
+
+    Create AUTHORS
+
+commit 40b5568134aebc83f73e4da31072b624f49ac90f
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Thu May 15 14:08:44 2014 -0430
+
+    * se crea changelog
+
+commit 9af47ea94fbc755b9b3598b1fed1ac26cd68ffe9
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Tue May 6 21:22:59 2014 -0430
 
