@@ -1,4 +1,22 @@
-commit f74d29b46352c4ec96f813d2e6943f4cb8221325 (HEAD, origin/master, origin/HEAD, master)
+commit 4720804e0cb1ccbaaba6504aedc49347c1cb790e (HEAD, origin/master, origin/HEAD, master)
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Mon Nov 24 01:04:30 2014 -0430
+
+    * bugfix
+
+commit 75dfd6db00b103cbb13243030541e98030a2de40
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Wed Nov 19 10:49:56 2014 -0430
+
+    Update README.md
+
+commit 2719e7bb1737f5f4b674548282412e702cdc4504
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Fri Nov 14 19:39:48 2014 -0430
+
+    * changelog
+
+commit f74d29b46352c4ec96f813d2e6943f4cb8221325
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Fri Nov 14 19:39:34 2014 -0430
 
