@@ -1,5 +1,4 @@
 #!/bin/bash
-#elaborado por sinfallas
 # Ubuntu 12.04 / Linux Mint 13 / Debian 6
 if [[ $USER != root ]]; then
 echo "Error: Debe tener privilegios de ROOT"

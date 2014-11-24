@@ -1,5 +1,4 @@
 #!/bin/bash
-#elaborado por sinfallas
 # Ubuntu 13.04
 if [[ $USER != root ]]; then
 echo "Error: Debe tener privilegios de ROOT"
