@@ -1,4 +1,34 @@
-commit 54d506002fc6aa64ef20c72ac5176065dc171111 (HEAD, origin/master, origin/HEAD, master)
+commit 28720a63cb54eeea5c408b4cca27efab3aac9101 (HEAD, origin/master, origin/HEAD, master)
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Mon Jan 12 15:49:11 2015 -0430
+
+    Update 13.10.sh
+
+commit d624e87997e410ef56f108a78cbebc708686de34
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Mon Jan 12 15:48:48 2015 -0430
+
+    Update 13.04.sh
+
+commit 263942c7a297a2afa148900407adf977fadaaa91
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Mon Jan 12 15:48:33 2015 -0430
+
+    Update 12.10.sh
+
+commit cbb40f9f727d7ad5befe7ed4f96096d07c5372c1
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Mon Jan 12 15:48:13 2015 -0430
+
+    Update 12.04.sh
+
+commit 071b2723bd6b898b9c1f4851800b92b8657735ae
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Thu Jan 8 00:48:23 2015 -0430
+
+    * changelog
+
+commit 54d506002fc6aa64ef20c72ac5176065dc171111
 Author: sinfallas <sinfallas@gmail.com>
 Date:   Thu Jan 8 00:47:24 2015 -0430
 
