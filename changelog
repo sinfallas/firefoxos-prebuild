@@ -1,4 +1,16 @@
-commit 28720a63cb54eeea5c408b4cca27efab3aac9101 (HEAD, origin/master, origin/HEAD, master)
+commit 64a4c2f2f4bf615838ba63b132f91a5a9726c322 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Aug 1 21:29:02 2015 -0430
+
+    * coveralls
+
+commit b0275c0ef4874763c15aa96c1ce80f5a262bc9d1
+Author: sinfallas <sinfallas@gmail.com>
+Date:   Tue Jan 13 19:19:14 2015 -0430
+
+    * changelog
+
+commit 28720a63cb54eeea5c408b4cca27efab3aac9101
 Author: Jose Perez <sinfallas@users.noreply.github.com>
 Date:   Mon Jan 12 15:49:11 2015 -0430
 
