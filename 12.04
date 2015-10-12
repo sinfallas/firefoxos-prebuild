@@ -1,8 +1,10 @@
 #!/bin/bash
+# Made by Sinfallas <sinfallas@yahoo.com>
+# Licence: GPL-2
 # Ubuntu 12.04 / Linux Mint 13 / Debian 6
 if [[ $USER != root ]]; then
-echo "Error: Debe tener privilegios de ROOT"
-exit 1
+	echo -e "\e[00;31mERROR: DEBES SER ROOT\e[00m"
+	exit 1
 fi
 apt update
 apt -y install build-essential libgl1-mesa-dev libglapi-mesa:i386 libgl1-mesa-glx:i386 autoconf2.13 bison bzip2 ccache curl flex gawk gcc g++ g++-multilib git ia32-libs lib32ncurses5-dev lib32z1-dev libgl1-mesa-dev libx11-dev make zip android-tools-adb

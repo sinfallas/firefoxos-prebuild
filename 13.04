@@ -1,8 +1,10 @@
 #!/bin/bash
+# Made by Sinfallas <sinfallas@yahoo.com>
+# Licence: GPL-2
 # Ubuntu 13.04
 if [[ $USER != root ]]; then
-echo "Error: Debe tener privilegios de ROOT"
-exit 1
+	echo -e "\e[00;31mERROR: DEBES SER ROOT\e[00m"
+	exit 1
 fi
 add-apt-repository -y ppa:ubuntu-toolchain-r/test
 apt update
