@@ -1,10 +1,28 @@
-commit 14580ce10dd8b37667beac168fedb4783765ce26 (HEAD, origin/master, origin/HEAD, master)
+commit 1bd03aacdb79051c1b1c08c5252074f9282d885d (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Oct 13 21:58:39 2015 -0430
+
+    coveralls
+
+commit 529484fb683a1f698f84db9134e68107803aba6d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Oct 12 12:46:11 2015 -0430
+
+    licencia
+
+commit 9aed1a9ff20ffbe51b1c67f2dcd2bcddc563c25d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Aug 10 20:07:38 2015 -0430
+
+    * changelog
+
+commit 14580ce10dd8b37667beac168fedb4783765ce26
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Aug 10 20:07:26 2015 -0430
 
     * doi
 
-commit 6a7420dda6db6fbfb9811d744e85a09bd138c8e5
+commit 6a7420dda6db6fbfb9811d744e85a09bd138c8e5 (tag: v1.0.3)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Aug 1 21:29:18 2015 -0430
 
