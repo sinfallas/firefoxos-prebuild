@@ -1,4 +1,10 @@
-commit da9fa5d174cac321cb3b5a659c4f8f9d2f420456 (HEAD, tag: v1.0.4, origin/master, origin/HEAD, master)
+commit fdff3c01d90d65341d5dc564cd2faedfe42a0ad4 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 10 21:20:11 2015 -0430
+
+    * changelog
+
+commit da9fa5d174cac321cb3b5a659c4f8f9d2f420456 (tag: v1.0.4)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Dec 6 18:05:20 2015 -0430
 
