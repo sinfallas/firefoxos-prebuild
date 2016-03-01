@@ -1,4 +1,16 @@
-commit bec4b931880ccfcf96cfcc3e270e1c4ba1157925 (HEAD, origin/master, origin/HEAD, master)
+commit a1c379a28ad90a51eb88a0fd7a8076ed37e19b61 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Feb 29 21:01:28 2016 -0430
+
+    * logo licencia
+
+commit 6aebdd110871d443871f793a9a8a246b02ab90f6
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Dec 17 20:29:22 2015 -0430
+
+    * changelog
+
+commit bec4b931880ccfcf96cfcc3e270e1c4ba1157925
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Dec 12 00:16:50 2015 -0430
 
