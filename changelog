@@ -1,4 +1,10 @@
-commit a1c379a28ad90a51eb88a0fd7a8076ed37e19b61 (HEAD, origin/master, origin/HEAD, master)
+commit 68f0b0d4323808a390ebd099b74cae2f5844dde8 (HEAD -> master, tag: v1.0.5, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Feb 29 21:01:41 2016 -0430
+
+    * changelog
+
+commit a1c379a28ad90a51eb88a0fd7a8076ed37e19b61
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Feb 29 21:01:28 2016 -0430
 
@@ -148,7 +154,7 @@ Date:   Fri Nov 14 19:39:34 2014 -0430
 
     * se agrega travis
 
-commit f0f14b9286563100002743fc6f527b8f731e7a27 (tag: v1.0.2, tag: v1.0.1)
+commit f0f14b9286563100002743fc6f527b8f731e7a27 (tag: v1.0.2)
 Author: Jesus Palencia <sinfallas@users.noreply.github.com>
 Date:   Tue Jun 3 11:44:01 2014 -0430
 
@@ -178,7 +184,7 @@ Date:   Sat Apr 26 15:28:45 2014 -0430
 
     * se agrega informacion de copyright
 
-commit 8469a76da527c7127a81bcaa465be8a7f07d1f91 (tag: v1.0)
+commit 8469a76da527c7127a81bcaa465be8a7f07d1f91
 Author: sinfallas <sinfallas@yahoo.com>
 Date:   Sun Mar 30 23:12:04 2014 -0430
 
